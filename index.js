@@ -5,10 +5,16 @@ const port = 5000;
 
 app.use(cors())
 
+const allCourses = require('./data/courses.json')
+
 app.get('/', (req, res) => {
     res.send('api server is running')
 })
 
-app.listen(port, (req, res) => {
+app.get('/courses', (req, res) => {
+    res.send(allCourses)
+})
+
+app.listen(port, () => {
     console.log(port, 'is running')
 })
