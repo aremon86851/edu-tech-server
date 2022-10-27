@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Data Science",
-        "picture": "https://img.freepik.com/free-vector/data-science-programming_39422-1055.jpg?w=900&t=st=1666680287~exp=1666680887~hmac=1ffc52a8f1635d08f5a87e274470fb7b690d9b71cb6670d2bd38245f78b580c7",
+        "picture": "https://i.ibb.co/899DN3G/data-science-programming-39422-1055.jpg",
         "details": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization's data. These insights can be used to guide decision making and strategic planning.Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of application domains.",
         "needed": [
             "Python",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "title": "Cloud Computing",
-        "picture": "https://img.freepik.com/free-vector/big-data-source-data-center-cloud-computing-cloud-storage-isometric-concept-server-room-rack_39422-964.jpg?w=900&t=st=1666683157~exp=1666683757~hmac=75cd123853ebc82c22d6e83a68f380af3d6bdcf40b62d07d118b55b418891b79",
+        "picture": "https://i.ibb.co/0XP8Pgs/big-data-source-data-center-cloud-computing-cloud-storage-isometric-concept-server-room-rack-39422-9.jpg",
         "details": "Cloud computing is one of the top IT fields that is experiencing an emerging trend in 2022. As organizations around the world go after dynamic and scalable applications, the demand for cloud services is only going to rise.While making the shift, companies encounter many technical challenges. So, having qualified people with domain expertise would be necessary. It is already a top IT job globally",
         "needed": [
             "Understanding of cloud migration and multi-cloud environments",
@@ -24,7 +24,7 @@
     {
         "id": 3,
         "title": "Software Development",
-        "picture": "https://img.freepik.com/free-vector/web-development-isometric-concept-composition-illustration_1284-55922.jpg?w=900&t=st=1666683313~exp=1666683913~hmac=114d83458c453adfad6b41d9fec2c819608f5b03e3cf67e13204fed556e052b7",
+        "picture": "https://i.ibb.co/8rc3ky4/web-development-isometric-concept-composition-illustration-1284-55922.jpg",
         "details": "The primary duties of a software development job include designing, managing, and testing software applications. Being successful in this field requires efficiency in writing and implementing code. To build the necessary proficiencies, you can undertake training in Java programming, C programming, automation testing, SQL database, among other topics.",
         "needed": [
             "Python",
@@ -35,7 +35,7 @@
     {
         "id": 4,
         "title": "Full-stack development",
-        "picture": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=900&t=st=1666683618~exp=1666684218~hmac=b6ef14d3c4a7c6e4511d57a205383ea3189eed12e4d0099cc83dd2a0c0f77c1b",
+        "picture": "https://i.ibb.co/bRrM1Hf/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer.jpg",
         "details": "Full-stack development is concerned with both front-end and back-end technologies. A typical full-stack development course would familiarize you with programming languages and tools like Spring, Java, Typescript, Oracle, Git, Hibernate, React, AWS, Selenium WebDriver, and so on.",
         "needed": [
             "Python",
@@ -49,7 +49,7 @@
     {
         "id": 5,
         "title": "Cybersecurity",
-        "picture": "https://img.freepik.com/free-vector/data-protection-technology-template-vector-with-lock-icon_53876-126049.jpg?w=900&t=st=1666683853~exp=1666684453~hmac=997ac9da073cdc57d67ba3edb8715bc5b23fe6f3272ed466566d45f0c0ad5c2c",
+        "picture": "https://i.ibb.co/vm6Hgv2/data-protection-technology-template-vector-with-lock-icon-53876-126049.jpg",
         "details": "In recent years, the instances of data breaches and cyber attacks faced by companies have increased. In the wake of rising cyber crimes, the demand for security experts has also picked up. Most software development courses provide a specialized learning path for those interested in cyber security careers.",
         "needed": [
             "Python",
@@ -61,7 +61,7 @@
     {
         "id": 6,
         "title": "Networking",
-        "picture": "https://img.freepik.com/free-vector/global-network-connection-world-map-digital-background_1017-23322.jpg?w=1380&t=st=1666685566~exp=1666686166~hmac=fb1a01d1696fb80e95d890ebd2185c88a6f1a19d15dc17d39b3d30919339695e",
+        "picture": "https://i.ibb.co/1zTFm71/global-network-connection-world-map-digital-background-1017-23322.jpg",
         "details": "Hardware and networking professionals build and maintain computer networks and ensure their smooth functioning, thus contributing to organizational success. Their job is not restricted to working behind the scenes on IT infrastructure but also involves aspects of analytics, security, and automation. A professional credential in networking can serve as a testimonial of your competencies to hiring managers and make a strong first impression.",
         "needed": [
             "Java",

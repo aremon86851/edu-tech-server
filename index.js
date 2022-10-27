@@ -20,6 +20,11 @@ app.get('/courses/:id', (req, res) => {
     const selectedCourse = allCourses.find(course => course.id == id)
     res.send(selectedCourse)
 })
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = allCourses.find(course => course.id == id)
+    res.send(selectedCourse)
+})
 
 app.listen(port, () => {
     console.log(port, 'is running')
